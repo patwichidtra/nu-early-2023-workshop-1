@@ -1,6 +1,6 @@
 # nu-early-2023-workshop-1
 
 ```text
-1. Siwawes Wongcharoen
+1. wichidtra phueksawan
 ```
-2. Siwawes v2
+2. wichidtra v2
